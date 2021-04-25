@@ -1,7 +1,7 @@
 # AME494_Final  
 
 ## Video Demonstration  
-[![Alt text](https://img.youtube.com/vi/mnH26vL3UBw/0.jpg)](https://youtu.be/uAXEY34zO-U)
+[![Alt text](https://img.youtube.com/vi/uAXEY34zO-U/0.jpg)](https://youtu.be/uAXEY34zO-U)
 
 ## Concept of Research  
 &ensp;The goal of this research is to create a system to create a system with which to interface with a robot. Robotic controls are very interesting to me as I believe the old style of interaction with robotics, namely gcode and ROS commands are outdated and don't allow for the dexterity and flexibility of human motion. Although this may be slightly less efficient than the algorithms written for robotics control systems, it adds dexterity and control without the complexity of artificial systems that may introduce error. Instead a robot could potentially poll for location data every several milliseconds to attempt to follow the path of the human - robot interface.
