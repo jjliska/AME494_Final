@@ -3,9 +3,9 @@
 ## Concept of Research  
 
 ## Images of Concept  
-![Alt text](https://github.com/jjliska/AME494_Final/blob/main/Media/20210425_111855.jpg)
-![Alt text](https://github.com/jjliska/AME494_Final/blob/main/Media/20210425_111903.jpg)
-![Alt text](https://github.com/jjliska/AME494_Final/blob/main/Media/20210425_111917.jpg)
+<img src="https://github.com/jjliska/AME494_Final/blob/main/Media/20210425_111855.jpg" width="480" height="270">
+<img src="https://github.com/jjliska/AME494_Final/blob/main/Media/20210425_111903.jpg" width="480" height="270">
+<img src="https://github.com/jjliska/AME494_Final/blob/main/Media/20210425_111917.jpg" width="480" height="270">
 
 ## Links to Similar Concepts:  
 [Controlling a Robot With Your Hands](https://www.youtube.com/watch?v=uEd2B7fS8Eg)  
