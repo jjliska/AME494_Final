@@ -1,7 +1,7 @@
 # AME494_Final  
 
 ## Video Demonstration  
-![Alt text(https://youtu.be/uAXEY34zO-U.jpg)](https://youtu.be/uAXEY34zO-U)
+![Alt text](https://youtu.be/uAXEY34zO-U)
 
 ## Concept of Research  
 
