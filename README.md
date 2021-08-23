@@ -8,7 +8,7 @@
 
 ## Future Designs and Continuation  
 &ensp;Creating a system to control the robotics arm I've written for Capstone.  
-&ensp;&ensp;- Re-Writing the ML code of my (Captstone](https://github.com/jjliska/capstone) to accept the BMO-055s input.  
+&ensp;&ensp;- Re-Writing the ML code of my [Captstone](https://github.com/jjliska/capstone) to accept the BMO-055s input.  
 &ensp;&ensp;- Creating a robotic hand appendage. (I received 4 mg995 servos today to create a robotic appendage like in the unity patch.)  
 &ensp;Potentially I could create a third person perspective ML system to track the users hand using google mediapipe ML kit. This would be easy to track orientation via the base effect(wrist) and the middle finger knuckle.  
 &ensp;Some sort of write off system that would allow me to interface directly with the robot, such as Byrone stated a capacitive sensor system. I think another cool concept would be if the hand effector is found to be in a particular radius of the robot, stop it from moving. And if a capacitive touch or some sort of uneven force is applied to the object the hand is gripping then the hand releases the item. 
