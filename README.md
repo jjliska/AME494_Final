@@ -1,4 +1,4 @@
-# AME494_Final  
+# Robotic Arm Interface
 
 ## Video Demonstration  
 [![Alt text](https://img.youtube.com/vi/uAXEY34zO-U/0.jpg)](https://youtu.be/uAXEY34zO-U)
